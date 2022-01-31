@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2d00c564-5979-4a3a-8478-06180bea18ae": {
+      "ProjectGuid": "2d00c564-5979-4a3a-8478-06180bea18ae",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "597cbb2d-2b6b-4fa3-bd65-3fadc71c18bb": {
+      "ProjectGuid": "597cbb2d-2b6b-4fa3-bd65-3fadc71c18bb",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 1
+    },
+    "a151eec6-f867-468c-8449-ce81a4e20fcc": {
+      "ProjectGuid": "a151eec6-f867-468c-8449-ce81a4e20fcc",
+      "DisplayName": "Homework.Utils",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
