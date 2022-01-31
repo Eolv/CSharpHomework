@@ -1,6 +1,0 @@
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\bin\Debug\Homework.Utils.dll
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\bin\Debug\Homework.Utils.pdb
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\obj\Debug\Homework.Utils.csproj.AssemblyReference.cache
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\obj\Debug\Homework.Utils.csproj.CoreCompileInputs.cache
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\obj\Debug\Homework.Utils.dll
-D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\Homework.Utils\obj\Debug\Homework.Utils.pdb
