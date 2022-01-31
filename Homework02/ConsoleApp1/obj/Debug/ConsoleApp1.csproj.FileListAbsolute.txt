@@ -1,0 +1,8 @@
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
