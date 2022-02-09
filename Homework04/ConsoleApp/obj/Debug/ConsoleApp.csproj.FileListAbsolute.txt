@@ -1,0 +1,14 @@
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\MyArray.txt
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\MyLibrary.dll
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\MyLibrary.pdb
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\Account.txt
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\ConsoleApp\bin\Debug\My2DArrayInput.txt

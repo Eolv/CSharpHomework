@@ -1,0 +1,6 @@
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\bin\Debug\MyArrayLib.dll
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\bin\Debug\MyArrayLib.pdb
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\obj\Debug\MyArrayLib.csproj.AssemblyReference.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\obj\Debug\MyArrayLib.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\obj\Debug\MyArrayLib.dll
+D:\YandexDisk\Programming\C#\GeekBrainC#\CSharpHomework\Homework04\MyArrayLib\obj\Debug\MyArrayLib.pdb
