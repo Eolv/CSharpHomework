@@ -1,0 +1,8 @@
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.exe.config
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.pdb

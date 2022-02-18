@@ -1,0 +1,17 @@
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.exe.config
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\bin\Debug\Task1.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Homework06.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Homework06.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Task1.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Task1\obj\Debug\Homework06.csproj.AssemblyReference.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\bin\Debug\Homework06.exe.config
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\bin\Debug\Homework06.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\bin\Debug\Homework06.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\obj\Debug\Homework06.csproj.AssemblyReference.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\obj\Debug\Homework06.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\obj\Debug\Homework06.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\obj\Debug\Homework06.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\obj\Debug\Homework06.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework06\Homework06\bin\Debug\students.csv
