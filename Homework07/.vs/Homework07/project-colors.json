@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac63c810-4200-414c-a04d-609c9dd69c0d": {
+      "ProjectGuid": "ac63c810-4200-414c-a04d-609c9dd69c0d",
+      "DisplayName": "Seminar",
+      "ColorIndex": 0
+    },
+    "82229348-e402-464f-a753-0f8e80b76e97": {
+      "ProjectGuid": "82229348-e402-464f-a753-0f8e80b76e97",
+      "DisplayName": "Number",
+      "ColorIndex": 1
+    },
+    "9d2648bb-818e-494b-bafc-850c2e2fdb12": {
+      "ProjectGuid": "9d2648bb-818e-494b-bafc-850c2e2fdb12",
+      "DisplayName": "Doubler",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
