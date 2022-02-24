@@ -1,0 +1,11 @@
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb

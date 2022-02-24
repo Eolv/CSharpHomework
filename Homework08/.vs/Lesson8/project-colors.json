@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "daf5e68c-10ab-42c6-96b2-a9030ae553ee": {
+      "ProjectGuid": "daf5e68c-10ab-42c6-96b2-a9030ae553ee",
+      "DisplayName": "Seminar",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c190af47-2117-4c6b-98a3-a9a97b0e5f27": {
+      "ProjectGuid": "c190af47-2117-4c6b-98a3-a9a97b0e5f27",
+      "DisplayName": "Task3",
+      "ColorIndex": 1
+    },
+    "ba975172-92b9-4434-9b04-05aebe2a76ce": {
+      "ProjectGuid": "ba975172-92b9-4434-9b04-05aebe2a76ce",
+      "DisplayName": "Task12",
+      "ColorIndex": 2
+    },
+    "4658a936-1a78-47a3-b2f4-eca60e279210": {
+      "ProjectGuid": "4658a936-1a78-47a3-b2f4-eca60e279210",
+      "DisplayName": "Task1",
+      "ColorIndex": 3
+    },
+    "cc60ec78-0c5a-4e62-952f-900eeaf8a44f": {
+      "ProjectGuid": "cc60ec78-0c5a-4e62-952f-900eeaf8a44f",
+      "DisplayName": "Task2",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

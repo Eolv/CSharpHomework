@@ -1,0 +1,11 @@
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\bin\Debug\Task2.exe.config
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\bin\Debug\Task2.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\bin\Debug\Task2.pdb
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.Main.resources
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.exe
+D:\YandexDisk\Gamedev\GeekBrains\C#\CSharpHomework\Homework08\Task2\obj\Debug\Task2.pdb
